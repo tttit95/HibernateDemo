@@ -1,5 +1,6 @@
 package demo.taitt.entity;
 
+
 public class User {
 
 	private int id;
